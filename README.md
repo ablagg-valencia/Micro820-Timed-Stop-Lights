@@ -1,4 +1,4 @@
-# Micro820-Stop-lights
+# Micro820
 I'm learning to program an Allen Bradley Micro820 with Connected Components Workbench
 
 I have an Allen Bradley Micro820 trainer connected to four digital inputs, four digital outputs, one analog input, and one analog output
@@ -12,5 +12,4 @@ Stop Light Timer:
 Ring counter - Stop Light Example
   This program is copied from Jake Glower's class notes for ECE 461 Control Systems.
   http://www.bisonacademy.com/ECE461/Lectures/03%20PLC%20and%20State%20Transistion%20Logic.pdf
-
   It uses State Transition Logic to implement a ring counter.
