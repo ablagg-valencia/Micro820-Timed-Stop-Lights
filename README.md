@@ -5,5 +5,12 @@ I have an Allen Bradley Micro820 trainer connected to four digital inputs, four 
 
 Since I'm not entirely sure which files I need to upload for people to be able to open the program, and since the program is super simple, I'll just upload a picture of the ladder logic.
 
-Info on the timer: https://www.youtube.com/watch?v=42IMd6qNhRE&t=5s
-Another example of how to make flashing lights: https://www.youtube.com/watch?v=HGyZj8Bj5Fw
+Stop Light Timer:
+  Info on the timer: https://www.youtube.com/watch?v=42IMd6qNhRE&t=5s
+  Another example of how to make flashing lights: https://www.youtube.com/watch?v=HGyZj8Bj5Fw
+
+Ring counter - Stop Light Example
+  This program is copied from Jake Glower's class notes for ECE 461 Control Systems.
+  http://www.bisonacademy.com/ECE461/Lectures/03%20PLC%20and%20State%20Transistion%20Logic.pdf
+
+  It uses State Transition Logic to implement a ring counter.
